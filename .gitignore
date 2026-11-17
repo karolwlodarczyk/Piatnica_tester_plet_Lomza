@@ -1,0 +1,7 @@
+build/
+skany/
+# SDK i dokumentacja producenta - pobrać ze strony wenglor (patrz README)
+vendor/
+docs/*.pdf
+docs/protocol.txt
+docs/sdk_interface_description.txt
