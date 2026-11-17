@@ -48,3 +48,6 @@ PC musi mieć adres w podsieci czujnika (domyślnie `192.168.100.x/24`).
 - `src/Sensor.h`, `src/Sensor.cpp` – obsługa czujnika przez `Sensor3d.dll` w wątku roboczym, skan, analiza, zapis.
 - `src/main.cpp` – okno, interfejs, widok 3D.
 - `docs/PARAMETRY.md` – parametry i ustalenia.
+- `skany/przyklady/` – 6 przykładowych chmur palety 1200 × 800 mm z 2026-11-17, każda w osobnym
+  zipie (ok. 23 MB, po rozpakowaniu ok. 68 MB i ok. 2,2 mln punktów). Format `X Y Z I` opisany
+  w `docs/PARAMETRY.md`, pkt 7.

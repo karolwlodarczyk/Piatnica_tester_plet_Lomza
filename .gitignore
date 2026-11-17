@@ -1,5 +1,6 @@
 build/
-skany/
+skany/*
+!skany/przyklady/
 # SDK i dokumentacja producenta - pobrać ze strony wenglor (patrz README)
 vendor/
 docs/*.pdf
